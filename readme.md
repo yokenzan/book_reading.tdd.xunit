@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/yokenzan/book_reading.tdd.xunit.svg?branch=master)](https://travis-ci.com/yokenzan/book_reading.tdd.xunit)
+
 # About
 
 This repository is for an excersize of TDD. Chapter 18 ~
