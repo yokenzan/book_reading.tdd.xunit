@@ -5,7 +5,7 @@ This repository is for an excersize of TDD. Chapter 18 ~
 
 # Tasks
 
-- [ ] テストメソッドを呼び出す
+- [x] テストメソッドを呼び出す
 - [ ] setUpを最初に呼び出す
 - [ ] tearDownを後で呼び出す
 - [ ] テストメソッドが失敗したとしてもtearDownを呼び出す
