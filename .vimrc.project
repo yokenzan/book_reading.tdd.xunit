@@ -1,0 +1,1 @@
+nnoremap <Leader>R : !tmux send-keys -t 2 "python3 ./xunit.py" Enter <CR><CR>
